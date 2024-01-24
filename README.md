@@ -1,19 +1,16 @@
-# API calls
+# Restaurant Search App
 
-## Fetch 
+## API 
 
--> built in function fo rmaking network requests
--> error handling is weird
--> requires us to write a lot of wrapper code
+This application used Yelps API to help you find the Restaurant you desire!
 
-## Axios
+## Navigation
 
--> Seperate library for making requests
--> easy to use, sensible defaults
--> increase our app size slightly
+The application uses react-navigation in order to navigate between screens and also pass in additional information between screens.
 
-## useEffect
+## Screens (More to be added soon!)
 
--> useEffect(() => {}) run the arrow function every timt ehe component is rendered
--> useEffect(() => {},[]) run the arrow function only when the componnent is first rendered
--> run the arrow function only when the component is first rendered and when the 'value' changes
+<img src="assets/firstScreen.png" width="200">
+<img src="assets/SearchScreen.png" width="200">
+<img src="assets/ResultsScreen.png" width="200">
+
