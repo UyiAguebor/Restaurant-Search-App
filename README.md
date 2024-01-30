@@ -10,8 +10,8 @@ The application uses react-navigation in order to navigate between screens and a
 
 ## Screens (More to be added soon!)
 <div style="display: flex; justify-content: space-around; align-items: center;">
-<img src="assets/firstScreen.png" width="200">
-<img src="assets/SearchScreen.png" width="200">
-<img src="assets/ResultsScreen.png" width="200">
+<img src="assets/firstScreen.png" width="200" height="500">
+<img src="assets/SearchScreen.png" width="200" height="500">
+<img src="assets/ResultsScreen.png" width="200" height="500">
 </div>
 
