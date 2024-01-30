@@ -1,6 +1,6 @@
 # Restaurant Search App
 
-Discover your favorite restaurants with this React Native application. Utilizing Yelp's API, the app helps you find the perfect dining spot tailored to your preferences.
+Discover your favourite restaurants with this React Native application. Utilizing Yelp's API, the app helps you find the perfect dining spot tailored to your preferences.
 
 ## Features
 
